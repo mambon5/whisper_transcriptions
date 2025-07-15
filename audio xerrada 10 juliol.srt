@@ -695,51 +695,51 @@
 
 175
 00:21:52,320 --> 00:22:03,200
- Es decir, el voto es indirecto, porque el estado es una República Federal, entonces, para lo que concierne a lo federal, suelen intervenir los estados.
+ Es decir, el voto es indirecto, porque el EEUU es una República Federal, entonces, para lo que concierne a lo federal, suelen intervenir los estados.
 
 176
 00:22:03,200 --> 00:22:16,400
- Entonces, que esos 270 votos necesarios se reparten entre los diferentes estados, cuando un estado, en un estado gana un candidato, pues ese candidato se lleva todos los puntos de estado.
+ Entonces, que esos 270 votos necesarios se reparten entre los diferentes estados, cuando un estado, en un estado gana un candidato, pues ese candidato se lleva todos los puntos de ese estado.
 
 177
 00:22:16,400 --> 00:22:29,120
- Analogamente, el vicepresidente se elige de la misma forma. Si una candidatura nos tiene los 270 o más, pues esa candidatura es la que se lleva el vicepresidente del vicepresidente.
+ Analogamente, el vicepresidente se elige de la misma forma. Si una candidatura consigue los 270 o más, pues esa candidatura es la que se lleva el vicepresidente.
 
 178
 00:22:29,120 --> 00:22:44,640
- Si queda exactamente los 270, que no es una mayoría, pues ahí ya tiene que intervenir el Senado de la anterior legislatura, y puede ocurrir un caso raro que creo que nunca se ha dado todavía, que puede pasar que un presidente sea de una acción política y el vicepresidente sea de otra.
+ Si queda exactamente los 270, que no es una mayoría, pues ahí ya tiene que intervenir el Senado de la anterior legislatura, y puede ocurrir un caso raro que creo que nunca se ha dado todavía, que puede pasar que un presidente sea de una afiliación política y el vicepresidente sea de otra.
 
 179
 00:22:44,640 --> 00:22:56,960
- ¿Qué más tenemos, el gabinete? Que el gabinete lo forpa a los secretarios, los ministros, que los elige el presidente de la República, y tiene que ser aprobados por el Senado.
+ ¿Qué más tenemos, el gabinete? El gabinete loforman a los secretarios, los ministros, que los elige el presidente de la República, y tiene que ser aprobados por el Senado.
 
 180
 00:22:56,960 --> 00:23:13,440
- También, luego, para agencias, como podría ser el FBI, la CIA, etc., ocurre lo mismo, los propone el presidente de la República, los tiene que aprobar el Senado, pero hay algunos carlos en los que así que no hace falta que pase por el Senado, que puede elegir directamente el presidente.
+ También, luego, para agencias, como podría ser el FBI, la CIA, etc., ocurre lo mismo, los propone el presidente de la República, los tiene que aprobar el Senado, pero hay algunos cargos en los que así que no hace falta que pase por el Senado, que los puede elegir directamente el presidente.
 
 181
 00:23:13,440 --> 00:23:39,520
- Lo mismo, el Poder Executivo a nivel estatal, a nivel estatal lo que sí que tenemos son la figura de gobernador, que es así que es un voto directo, voto directo a una sola vuelta, y las elecciones tanto para a nivel federal como a nivel estatal son cada cuatro años, exactamente igual que a nivel federal.
+ Lo mismo, el Poder Executivo a nivel estatal, a nivel estatal lo que sí que tenemos son la figura de gobernador, que ese sí que es por voto directo, voto directo a una sola vuelta, y las elecciones tanto para a nivel federal como a nivel estatal son cada cuatro años, exactamente igual que a nivel federal.
 
 182
 00:23:39,520 --> 00:24:03,600
- Luego, para el Poder Legislativo, tenemos el Congreso, que es bicameral, que lo forma el Senado y la Casa de Representantes, el Senado, cada Estado posee dos Senadores a nivel federal, las elecciones son cada seis años, y se realiza por voto popular, directo, de nuevo, una a una sola vuelta.
+ Luego, para el Poder Legislativo, tenemos el Congreso, que es bicameral, que lo forma el Senado y la Casa de Representantes, el Senado, cada Estado posee dos Senadores a nivel federal, las elecciones son cada seis años, y se realiza por voto popular, directo, de nuevo, a una sola vuelta.
 
 183
 00:24:03,600 --> 00:24:16,560
- El cambio, la Casa de Representantes, son 435 escaños que se reparten por población entre los estados, hay un mínimo de representantes que tienen que tener clases, y a partir de ahí se añaden más.
+ El cambio, la Casa de Representantes, son 435 escaños que se reparten por población entre los estados, hay un mínimo de representantes que tienen que tener cada estado, y a partir de ahí se añaden más.
 
 184
 00:24:16,560 --> 00:24:34,480
- También es por voto popular, directo, vellante de distintos congresionales que explicaba yo el día antes un poco, y el Senado lo preside, el vicepresidente de la República, y el Congreso lo preside, el portavoz del Congreso.
+ También es por voto popular, directo, mediante de distintos congresionales que explicaba Jordi antes hace poco, y el Senado lo preside, el vicepresidente de la República, y el Congreso lo preside, el portavoz del Congreso.
 
 185
 00:24:34,480 --> 00:24:46,640
- En los Estados de Estados Unidos se organiza exactamente igual manera, que a nivel federal, por la diferencia de que no hay separación por Estados, no hay separación por distintos.
+ En los Estados de Estados Unidos se organiza exactamente igual manera, que a nivel federal, con la diferencia de que no hay separación por Estados, solo hay separación por distintos.
 
 186
 00:24:46,640 --> 00:25:16,560
- Por último, el Poder Judicial, aquí es donde entra el qui de la cuestión, el Poder Judicial de Estados Unidos lo forma la Corte Suprema por nueve jueces, puestos por el presidente, son cargos vitalicios, entonces cuando queda una plaza vacante, ya sea porque el juez muere, o ya sea porque lo permite, el presidente de la República elige a la persona que va,
+ Por último, el Poder Judicial, aquí es donde entra el quid de la cuestión, el Poder Judicial de Estados Unidos lo forma la Corte Suprema por nueve jueces, puestos por el presidente, son cargos vitalicios, entonces cuando queda una plaza vacante, ya sea porque el juez muere, o ya sea porque el juez dimite, el presidente de la República elige a la persona que va,
 
 187
 00:25:16,560 --> 00:25:20,000
@@ -747,7 +747,7 @@
 
 188
 00:25:20,000 --> 00:25:31,920
- Lo mismo ocurre con la Corte de Apelaciones, que son trete puentes y las cortes del distrito son noventa y cuatro, todos ellos son energilos por el presidente cuando hay platas patantes, y el puesto es vitalicio.
+ Lo mismo ocurre con la Corte de Apelaciones, que son trece jueces y las cortes de distrito son noventa y cuatro, todos ellos son elegidos por el presidente cuando hay plazas patantes, y el puesto es vitalicio.
 
 189
 00:25:31,920 --> 00:25:47,920
@@ -759,19 +759,19 @@
 
 191
 00:25:53,280 --> 00:26:09,600
- Esto es detallar de cada Estado, cada Estado tiene una forma distinta de organizarse en ese sentido para el poder judicial, por ejemplo, un voto populista sin afiliación partidista, es decir voto popular directamente,
+ Esto es detallar de cada Estado, cada Estado tiene una forma distinta de organizarse en ese sentido para el poder judicial, pero por ejemplo, un voto populista sin afiliación partidista, es decir voto popular directamente,
 
 192
 00:26:09,600 --> 00:26:23,520
- también tenemos como a nivel federal, que sea el gobernador junto con el legislativo del Estado, el que apruebe si o si no la persona propuesta por el cargo,
+ también tenemos como pasaba a nivel federal, que sea el gobernador junto con el legislativo del Estado, el que apruebe si sí o si no la persona propuesta por el cargo,
 
 193
 00:26:23,520 --> 00:26:41,760
- y luego tenemos pues por méritos y retención, es decir, por expediencia, por años y por casos hechos, etcétera, pues se elija de esa forma a la persona que va a cubrir esa banda, que se llama el misurid plan.
+ y luego tenemos pues por méritos y retención, es decir, por expediencia, por años y por casos hechos, etcétera, pues se elija de esa forma a la persona que va a cubrir esa vacante, que se llama el Missouri plan.
 
 194
 00:26:41,760 --> 00:26:51,680
- Durante cuantos años cubre en este puesto a nivel estatal, no es vitalicio de depender de cada Estado.
+ Durante cuantos años cubre en este puesto a nivel estatal, no es vitalicio depende de cada Estado, sí?
 
 195
 00:26:51,680 --> 00:27:03,840
@@ -783,27 +783,27 @@
 
 197
 00:27:16,160 --> 00:27:30,080
- si yo quiero destituir a mi representante porque lo está haciendo mal, ¿qué tengo que hacer? Pues bien, los ciudadanos tienen la llamada iniciativa, que consiste en que ellos puedan pregatar una propuesta, entregarla,
+ si yo quiero destituir a mi representante porque lo está haciendo mal, ¿qué tengo que hacer? Pues bien, los ciudadanos tienen la llamada iniciativa, que consiste en que ellos puedan redactar una propuesta, entregarla,
 
 198
 00:27:30,080 --> 00:27:47,840
- recolectar firmas, varia con Estado, el número de firmas necesarias, y si consiguen esas firmas se entrará propuesta adotocopular en el boletín electoral, es decir, aquí, en la papeleta de las siguientes elecciones que coque para ese distrito.
+ recolectar firmas, varia con Estado, el número de firmas necesarias, y si consiguen esas firmas saldrá la propuesta avoto en el boletín electoral, es decir, aquí, en la papeleta de las siguientes elecciones que toque para ese distrito.
 
 199
 00:27:47,840 --> 00:28:06,400
- Luego, otras votos per qualitismos que existen de participación ciudadana, existen los referendos, que es una dotación directa ciudadana para tratar un tema, de forma similar tenemos los votos de consultas populares,
+ Luego, otras formas que existen de participación ciudadana, existen los referendos, que es una votación directa ciudadana para tratar un tema, de forma similar tenemos los votos de consultas populares,
 
 200
 00:28:06,400 --> 00:28:32,720
- eso son, sin más, solamente para dar una opinión, para saber más o menos la línea de cruzolación que tienen que realizar los representantes, y por último tenemos, pues, enmiendas constitucionales que a nivel estatal sí que les poden proponer ciudadanos, a nivel federal no, a nivel federal no tiene que proponer dos terfes del Congreso y tiene que haber un consenso de dos terfes de los estados.
+ eso son, sin más, solamente para dar una opinión, para saber más o menos la línea de cruzolación que tienen que realizar los representantes, y por último tenemos, pues, enmiendas constitucionales que a nivel estatal sí que las poden proponer ciudadanos, a nivel federal no, a nivel federal lo tiene que proponer dos tercios del Congreso y tiene que haber un consenso de dos tercios de los estados.
 
 201
 00:28:32,720 --> 00:28:56,560
- Finalmente, pues, para provocar mandatos, son todo lo mismo, pedimos, conseguimos un número de firmas alto, y entonces se realizaron una elección para el despido, un ejemplo de esto lo podemos tener en 2003, en California, donde el gobernador Grey Davis fue destituido y se puso a Arnold Schwarzenegger.
+ Finalmente, pues, para revocar mandatos, un poco lo mismo, pedimos, conseguimos un número de firmas alto, y entonces se realizará una elección para el despido, un ejemplo de esto lo podemos tener en 2003, en California, donde el gobernador Grey Davis fue destituido y se puso a Arnold Schwarzenegger.
 
 202
 00:28:56,560 --> 00:29:11,920
- Problemas de Estados Unidos que podemos tener. Según lo que nos ha dicho Jordi, pues primero, la limitación es una tendencia judicial, el hecho de que elija el presidente del gobierno puede suponer un pequeño problema.
+ Problemas de Estados Unidos que podemos tener. Según lo que nos ha dicho Jordi, pues primero, la limitación en la independencia judicial, el hecho de que lo elija el presidente del gobierno puede suponer un pequeño problema.
 
 203
 00:29:11,920 --> 00:29:22,800
@@ -811,11 +811,11 @@
 
 204
 00:29:22,800 --> 00:29:36,720
- Luego, el electorado, pues, es fácilmente manipularme, entonces, en Estados Unidos ha dado el caso, por ejemplo, de que han llegado a un sistema muy bipartidista en el que hacer asociaciones, pues es muy complicado que se hablan adelante.
+ Luego, el electorado, pues, es fácilmente manipulable, entonces, en Estados Unidos se ha dado el caso, por ejemplo, de que han llegado a un sistema muy bipartidista en el que terceras opciones, pues es muy complicado que salgan adelante.
 
 205
 00:29:36,720 --> 00:29:56,880
- Tenemos también el Landry Mandering, que cada 8 años tienen que redimujarlos distritos para que sea representativo. El problema es que el trabajo de redimujarlos cae en el comunicista de turno, entonces, puede intentar hacer técnicas para favorecer demográficamente resultados a posteriori durante los siguientes 8 años.
+ Tenemos también el Gerry Mandering, que cada 8 años tienen que redibujar los distritos para que sea representativo. El problema es que el trabajo de redibujarlos cae en el congresista de turno, entonces, puede intentar hacer técnicas para favorecer demográficamente resultados a posteriori durante los siguientes 8 años.
 
 206
 00:29:56,880 --> 00:30:07,200
@@ -823,7 +823,7 @@
 
 207
 00:30:07,200 --> 00:30:20,880
- Finalmente, parte buena, hemos hecho sec en las tres casitas más importantes, a pesar de los problemas, que son la representación, separación de poderes y límites y control a la clase política.
+ Finalmente, parte buena, hemos hecho check! en las tres casillas más importantes, a pesar de los problemas, que son la representación, separación de poderes y límites y control a la clase política.
 
 208
 00:30:20,880 --> 00:30:32,000
@@ -831,19 +831,19 @@
 
 209
 00:30:32,000 --> 00:30:57,600
- Tiene una construcción desde 1958 con una pinta república, muchas gracias, y sus instituciones, principalmente, son la Presidencia de la República, que se lija de su ratio directo a doble vuelta diferencia con Estados Unidos, y son cada 5 años y la misma persona no puede ser relecta más de dos retes.
+ Tiene una constitución desde 1958 con la quinta república, muchas gracias, y sus instituciones, principalmente, son la Presidencia de la República, que se elije mediante sufragio directo a doble vuelta (a diferencia con Estados Unidos), y son cada 5 años y la misma persona no puede ser relecta más de dos veces.
 
 210
 00:30:57,600 --> 00:31:13,360
- Luego, tenemos el Parlamento, que es el Poder Legislativo, picameral otra vez, formado por la Asamblea Nacional, que es su ratio directo a doble vuelta, unidominal por distritos, y cada diputado depende directamente de sus votantes.
+ Luego, tenemos el Parlamento (Asamblea Nacional), que es el Poder Legislativo, bicameral otra vez, formado por la Asamblea Nacional, con sufragio directo a doble vuelta, unidominal por distritos, y cada diputado depende directamente de sus votantes.
 
 211
 00:31:13,360 --> 00:31:29,600
- Aquí tenemos un mapa de distritos del año pasado. Aquí tenemos la primera vuelta, donde se seleccionaron unos cuantos por cada uno, salieron unos cuantos y danlos, y donde todavía, mayor y absoluta, tuvieron que irse a una segunda vuelta.
+ Aquí tenemos un mapa de distritos de las elecciones legislativas del año pasado. Aquí tenemos la primera vuelta, donde se seleccionaron unos cuantos por cada uno, salieron unos cuantos candidatos, y donde no había mayoría absoluta, tuvieron que irse a una segunda vuelta.
 
 212
 00:31:29,600 --> 00:31:49,520
- ¿Qué más? El Senado, que lo elige la Asamblea Nacional, ahí hay una gran diferencia, se supone que es con la intención de que represente más la distinción, la proporcionalidad de los partidos que han sido votados.
+ ¿Qué más? El Senado, que lo elige la Asamblea Nacional, ahí hay una gran diferencia, se supone que es con la intención de que represente más la distribución, la proporcionalidad de los partidos que han sido votados.
 
 213
 00:31:49,520 --> 00:32:05,760
@@ -851,27 +851,27 @@
 
 214
 00:32:05,760 --> 00:32:12,640
- ¿Cuál es la diferencia con Estados Unidos? Aquí en los casos no son vitalismos, entonces sí que se puede preguntarle en el Poder Judicial.
+ ¿Cuál es la diferencia con Estados Unidos? Que aquí en los cargos no son vitalicios, entonces sí que se pueden revocar en el Poder Judicial.
 
 215
 00:32:12,640 --> 00:32:22,960
- ¿Qué partes tiene el sistema judicial? Los supremos, con las audiencias, por la indesación, por las tribunales, y muchos tribunes.
+ ¿Qué partes tiene el sistema judicial? Los supremos, cortes de audiencias, cortes de casación, cortes de los tribunales, y muchos tribunales.
 
 216
 00:32:22,960 --> 00:32:31,360
- ¿Qué mecanismos de control poseen los ciudadanos franceses para consultar a su representante, la petición, etcétera?
+ ¿Qué mecanismos de control poseen los ciudadanos franceses para consultar a su representante, las peticiones, etcétera?
 
 217
 00:32:31,360 --> 00:32:52,880
- Se le puede contactar tanto por carta como por por lo electrónico. Importante, el diputado tiene la obligación de consultarlos y tiene que pasar tiempo como mínimo al año en su distrito para atender las necesidades en persona.
+ Se le puede contactar tanto por carta como por correo electrónico. Importante, el diputado tiene la obligación de consultarlos y tiene que pasar cierto tiempo como mínimo al año en su distrito para atender las necesidades en persona.
 
 218
 00:32:52,880 --> 00:33:16,400
- En Francia, diferencialmente no se puede destituir a un polígico por voto popular, pero lo que sí que se puede hacer es, o se puede presentar una denuncia a la justicia y si la justicia considera que en efecto se cumplen los requisitos, se puede entrevistar un poco o se puede escuchar de inmediato.
+ En Francia, desgraciadamente no se puede destituir a un político por voto popular, pero lo que sí que se puede hacer es, o se puede presentar una denuncia a la justicia y si la justicia considera que en efecto se cumplen los requisitos, se puede relizar un voto o se puede expulsar de inmediato.
 
 219
 00:33:16,400 --> 00:33:26,480
- Otra forma es que puede haber que los representantes se vayan de su carro si el presidente o l'Assemblea disuelven l'Assemblea Nacional.
+ Otras formas es que puede haber que los representantes se vayan de su cargo si el presidente o la Asamblea disuelven la Asamblea Nacional.
 
 220
 00:33:26,480 --> 00:33:29,360
@@ -879,15 +879,15 @@
 
 221
 00:33:29,360 --> 00:33:56,240
- Respecto a Estados Unidos hemos visto que elegimos personas no partidos, en Francia sí ocurre que elegimos personas, el problema es que existe cierta disciplina del voto en el sentido de que se realiza mucha presión por parte de los partidos políticos para que todos los electos de ese partido político voten en la misma línea.
+ Respecto a Estados Unidos hemos visto que elegimos personas no partidos, en Francia ocurre así? Bueno, en Francia sí ocurre que elegimos personas, el problema es que existe cierta disciplina del voto en el sentido de que se realiza mucha presión por parte de los partidos políticos para que todos los electos de ese partido político voten en la misma línea.
 
 222
 00:33:56,240 --> 00:34:16,400
- Entonces, con lo que habíamos visto antes en la de la positiva anterior de poder hacer consultas durante las elecciones se puede hacer eso en Francia, pues tampoco se puede hacer.
+ Entonces, con lo que habíamos visto antes en la de la positiva anterior de poder hacer consultas durante las elecciones se puede hacer eso en Francia? pues tampoco se puede hacer.
 
 223
 00:34:16,400 --> 00:34:30,160
- Sí que se pueden proponer visitas propuestas para llevar a voto, pero en tema de participación directa de la ciudadanía, en principio no se puede.
+ Sí que se pueden proponer distintas propuestas para llevar a voto, pero en tema de participación directa de la ciudadanía, en principio no se puede.
 
 224
 00:34:30,160 --> 00:34:34,320
@@ -895,67 +895,67 @@
 
 225
 00:34:34,320 --> 00:34:46,240
- En Francia dos cositas que pasan, muy interesantes, es que, por ejemplo, el voto nulo i el voto en planco no cuentan.
+ En Francia dos cositas que pasan, muy interesantes, es que, por ejemplo, el voto nulo y el voto en blanco no cuentan.
 
 226
 00:34:46,240 --> 00:35:12,000
- I también existe una cosa llamada la carta electoral, que es una cartilla de vacunación, es un documento de citación en el que tiene el lugar y la fecha del voto, para que si ocurre cualquier cosa que hay que revisar, si ha habido fraude electoral o lo que sea, pues que puedan ir a algo fácil a comprobar el efecto del voto, en esa mesa y todo.
+ Y también existe una cosa llamada la carta electoral, que es una cartilla de vacunación, es un documento de citación que tiene el lugar y la fecha del voto, para que si ocurre cualquier cosa que hay que revisar, si ha habido fraude electoral o lo que sea, pues que puedan ir al alguacil para comprobar el efecto del voto, en esa mesa y todo.
 
 227
 00:35:12,000 --> 00:35:19,120
- I ja, si queremos estar, paso al siguiente, si estaba positivo, por favor.
+ Y ja, si queremos dar paso al siguiente sistema político, por favor.
 
 228
 00:35:19,120 --> 00:35:37,040
- Merci Nemo, i re, no sé si nos fa molt pesant això, és molta informació, jo estic clar, si una persona no sap d'aquest que parla, és molt locura.
+ Merci Nino, i re, no sé si això és molta informació, jo estic clar, si una persona no sap de què estem parlant és molt locura.
 
 229
 00:35:37,040 --> 00:36:02,960
- Sí, s'entén. No sé si s'entén. Gràcies d'aquest entre els jòlis presentats poders, president, aixislegors, jutges, cada país com es prien, a l'estats units els jutges els fiquen president, a França els fiquen els polítics, després el districte electoral, que clar, com que som espanyols i catalans és difícil en el districte electoral.
+ Sí, s'entén. No sé si s'entén. La gràcia estem debatint entre els poders, el Jordi ha presentat els poders, president, legisladors, jutges, a cada país com es trien, als EEUU els jutges els fiquen president, a França els fiquen els polítics, després el districte electoral, que clar, com que som espanyols i catalans és difícil entendre el districte electoral.
 
 230
 00:36:02,960 --> 00:36:15,760
- El que vol dir el districte electoral vol dir que en cada petita regia de clients, tots els veïns que hi ha aquí, criaran com a diputat, o una persona que n'hi és que hi ha clients, en el que espanyen els aixins.
+ El que vol dir el districte electoral vol dir que en cada petita regió d'aquí, tots els veïns que hi ha aquí, triaran com a diputat, a una persona que visqui aquí dins, aquí a Espanya no és aixins.
 
 231
 00:36:15,760 --> 00:36:17,760
- Això és la mental, per mi, jo.
+ Això elemental, per mi, això.
 
 232
 00:36:17,760 --> 00:36:47,440
- Com és el sistema de la justícia, el jutge es diu una sobret, que és el cor de cassació, es anomena el Consell Superior de la Magistratura de 15 membres, més al president de la República Francesa,
+ Una cosa que no ha explicat el Nino, que ho explico jo, com és el sistema de la justícia, els jutges de la cort de cassació, els anomena el Consell Superior de la Magistratura que té 15 membres, més el president de la República Francesa,
 
 233
 00:36:47,440 --> 00:37:04,160
- d'aquests 16, d'aquests 16 només 6 jutges, el que es diu una sobret, són els jutges, els altres 10, 8 són els jutges entre el president de la República, l'Assemblea Nacional i els polítics.
+ de fet té 16, d'aquests 16 només 6 jutges, del Tribunal Suprem, són elegits pelsmateixos jutges, els altres 10, 8 són elegits entre el president de la República, l'Assemblea Nacional i els polítics.
 
 234
 00:37:04,160 --> 00:37:07,680
- Això vol dir que no hi ha el justícia de mantenir cap aparència.
+ Això vol dir que no hi ha justícia independent tampoc a França.
 
 235
 00:37:07,680 --> 00:37:26,640
- Suïssa, el problema de suïssa és que és que és la masèria de l'Espanya, perquè sempre es parla de suïssa, es parla d'un senyor, o suïssa.
+ (Jordi) Suïssa, el problema de suïssa és que està massa idealitzat aquí a Espanya, perquè sempre es parla de suïssa, es parla de "oh suïssa"
 
 236
 00:37:26,640 --> 00:37:39,600
- Quan hi ha participació directa, on hi ha demontració directa, on tothom no és ric i no hi ha corrupció, doncs potser avui haurem de dir que és una mica mentida exacte.
+ On hi ha participació directa, on hi ha democràcia directa, on tothom no és ric i no hi ha corrupció, doncs potser avui haurem de dir que això és una mica mentida exacte.
 
 237
 00:37:39,600 --> 00:37:44,720
- 3 poders legislatiu, que portem per tota l'altre.
+ 3 poders legislatiu, que portem parlant tota la xerrada.
 
 238
 00:37:44,720 --> 00:37:48,000
- Poder legislatiu, poder exercutiu i justícia.
+ Poder legislatiu, poder executiu i justícia.
 
 239
 00:37:48,000 --> 00:37:50,000
- Anem a veure com es configura aquestes convéquets.
+ Anem a veure com es configuren aquestes poders.
 
 240
 00:37:50,000 --> 00:37:52,000
- Comencem per legislatiu.
+ Comencem pel legislatiu.
 
 241
 00:37:52,000 --> 00:38:07,440
