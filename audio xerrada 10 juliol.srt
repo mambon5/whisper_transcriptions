@@ -959,35 +959,35 @@
 
 241
 00:37:52,000 --> 00:38:07,440
- Estat d'única distància, el poder legislatiu s'escollés a través de diputats unicnominals amb mandat relocable, a través dels diferents aspectes autonòmics.
+ A EEUU i França, el poder legislatiu s'escolleix a través de diputats uninominals amb mandat revocable, a través dels diferents districtes electorals.
 
 242
 00:38:07,440 --> 00:38:17,760
- Suïssa, aquella són cantons, que seria com les Provincies, de qui no més o menys, i cada cantor, i després que, l'Assemblea Federal.
+ A Suïssa, el que hi ha són cantons, que seria com les Provincies, d'aqui no més o menys, i a cada cantó, i després està l'Assemblea Federal.
 
 243
 00:38:17,760 --> 00:38:27,600
- L'Assemblea Federal en comptes del Constituïc per Congrés dels Diputats i per Senat es constitueix pel Consell Nacional, que seria el nostre.
+ L'Assemblea Federal en comptes del constituir-se pel Congrés dels Diputats i per Senat es constitueix pel Consell Nacional, que seria el nostre.
 
 244
 00:38:27,600 --> 00:38:31,120
- Consell Nacional, consell dels Estats.
+ Consell Nacional i consell dels Estats.
 
 245
 00:38:31,120 --> 00:38:39,600
- Bé, com es coneix el Consell, anem a veure com es coneixen els d'aquí i com es coneixen els d'allà.
+ Bé, com s'escull el Consell, anem a parlar com s'escullen els d'aquí i com s'escullen els d'allà.
 
 246
 00:38:39,600 --> 00:39:09,520
- Hi ha dos sistemes d'elecció, l'acció majoritària, que es proposen candidatures, concrets, noms concrets, i es coneix per majoria absoluta, i es resta l'elecció proporcional, que és, jo et dono 3 o 4, que és la que tenim aquí, jo et dono 3 o 4 equistes de partits per exemple, i en proporció els vots que treu cada partit, cada equista, doncs formarem les càmeres.
+ Hi ha dos sistemes d'elecció, elecció majoritària, que es proposen candidatures, concrets, noms concrets, i s'escull per majoria absoluta, i després està l'elecció proporcional, que és el que tenim aquí, jo et dono 3 o 4 llistes de partits per exemple, i en proporció als vots que treu cada partit, cada llista, doncs formarem les càmeres.
 
 247
 00:39:09,520 --> 00:39:13,840
- Com s'escolcheix a Suïssa?
+ Com s'esculleix a Suïssa?
 
 248
 00:39:13,840 --> 00:39:39,040
- Bé, el Consell Nacional s'escolcheix de manera proporcional, és a dir, hi ha llistes de partits, com les que tenim aquí, i, a través de la proporció dels vots que té cada llista de partits, es configuren els diputats, això seria el Congrés dels Diputats nostres, el Consell Nacional, Suïs, i aleshores cada partit té uns quants diputats.
+ Bé, el Consell Nacional s'esculleix de manera proporcional, és a dir, hi ha llistes de partits, com les que tenim aquí, i, a través de la proporció dels vots que té cada llista de partits, es configuren els diputats, això seria el Congrés dels Diputats nostres, el Consell Nacional, Suïs, i aleshores cada partit té uns quants diputats.
 
 249
 00:39:39,040 --> 00:39:41,760
@@ -995,11 +995,11 @@
 
 250
 00:39:41,760 --> 00:39:54,400
- Aquí a Espanya això jo considero personalment que és un problema, perquè, com deia abans a les hores, els diputats han debutat molt bon contredentist, segons si obligui el seu partit, és a dir, hi ha disciplina de partits.
+ Aquí a Espanya això jo considero personalment que és un problema, perquè, com deia abans aleshores, els diputats han de votar a favor o en contra de lleis, segons els hi obligui el seu partit, és a dir, hi ha disciplina de partit.
 
 251
 00:39:54,400 --> 00:40:08,720
- A Suïssa no passa tant, passa una mica, perquè hi ha casos, si no després puc dir noms de casos concrets, no els tinc de memòria, però hi ha noms de casos que els partits senten,
+ A Suïssa no passa tant, passa una mica, perquè hi ha casos, sinó després puc dir noms de casos concrets, no els tinc de memòria, però hi ha hagut casos que els partits senten,
 
 252
 00:40:08,720 --> 00:40:19,920
@@ -1011,7 +1011,7 @@
 
 254
 00:40:26,640 --> 00:40:40,240
- També important, els partits de Suïssa, que és una diferència positiva, respecte al nostre sistema, no són partits estatals, no són partits financiats per l'Estat i vinculats a l'Estat, per tant, defensa en l'Estat.
+ També important, els partits de Suïssa, i és una diferència positiva, respecte al nostre sistema, no són partits estatals, no són partits financiats per l'Estat i vinculats a l'Estat, per tant, defensen l'Estat.
 
 255
 00:40:40,240 --> 00:40:53,040
@@ -1019,51 +1019,51 @@
 
 256
 00:40:53,040 --> 00:41:04,960
- Quines grans entitats bancàries o empreses poden fer donacions a aquests partits i fer pressió i convertir-se en lobby, com passen en la terra, per exemple, és una altra.
+ Que grans entitats bancàries o empreses poden fer donacions a aquests partits i fer pressió i convertir-se en lobby, com passa a Anglaterra, per exemple, és una altra.
 
 257
 00:41:04,960 --> 00:41:21,680
- I després per considerar els estats que seria el nostre Senat. I aquí, aquests són 240 diputats i aquests són 26 o 46, el que n'hi ha votat, 46 senadors, com es coneixen aquests 46?
+ I després estaria el Consell els Estats que seria el nostre Senat. I aquí, aquests són 240 diputats i aquests són 26 o 46, el que n'hi ha votat, 46 senadors, com s'escolleiexen aquests 46?
 
 258
 00:41:21,680 --> 00:41:38,800
- Doncs 40 senadors es congeixen a través del sistema majoritari, és a dir, directament per els ciutadans, que això és un punt positiu, i 6 en 6 cantors per un motiu, doncs es congeixen a través del sistema proporcional.
+ Doncs 40 senadors s'escullen directament a través del sistema majoritari, és a dir, directament pels ciutadans, que això és un punt positiu, i 6 en 6 cantors per algun motiu, doncs s'escolleixen a través del sistema proporcional.
 
 259
 00:41:38,800 --> 00:41:51,920
- Hi ha representació, podríem dir que aquests 40 senadors, que són escollits de manera directa, dos senadors per cada cantor, podríem dir que hi ha representació.
+ Hi ha representació? Podríem dir que aquests 40 senadors, que són escollits de manera directa, dos senadors per cada cantó, podríem dir que hi ha representació?
 
 260
 00:41:51,920 --> 00:42:10,960
- Podem dir que es congeixen de manera directa què passa, que són la minoria. Quan s'ha de provar una llei, han de provar la majoria de les dues càmeres, per tant, la representació que hi pot haver dins del Consell dels Estats no és suficient com per a que sigui vinculat la legislació dels ciutadans.
+ Podem dir que s'escullen de manera directa. Què passa? Que són la minoria. Quan s'ha d'aprovar una llei, l'han d'aprovar la majoria de les dues càmeres, per tant, la representació que hi pot haver dins del Consell dels Estats no és suficient com per a que sigui vinculant la decisió dels ciutadans.
 
 261
 00:42:10,960 --> 00:42:23,680
- Això, quan el poder traslladiu per tant, de representació no hi ha. Ara anem a veure si per "tomeus" hi ha separació de poderes, que és a dir, la càmera legislativa pot funcionar de manera separada del govern i viceversa.
+ Això, quan el poder legislatiu. Per tant, de representació no hi ha. Ara anem a veure si per "per lu menus" hi ha separació de poderes, que és a dir, la càmera legislativa pot funcionar de manera separada del govern i viceversa.
 
 262
 00:42:23,680 --> 00:42:36,880
- Doncs el cas del poder executiu, el Suïssa és molt, molt raro, perquè tenen el govern està format pel Consell Federal, que són 7 membres, què passa?
+ Doncs el cas del poder executiu, a Suïssa és molt, molt raro, perquè tenen el govern està format pel Consell Federal, que són 7 membres, què passa?
 
 263
 00:42:36,880 --> 00:42:59,360
- Els Suïssos no poden escollir directament el seu president, no poden, no hi ha unes eleccions pel president, passa com aquí que el president l'escollis el Consell Nacional i el Consell dels Estats, però encara és més una mica mèrder perquè el president, el mandat del president és d'un any, i se l'han d'anar votant amb aquests 7 membres.
+ Els Suïssos no poden escollir directament el seu president, no poden, no hi ha unes eleccions pel president, passa com aquí que el president l'escolleix el Consell Nacional i el Consell dels Estats, però encara és més una mica més raro perquè el president, el mandat del president és d'un any, i se l'han d'anar rotant aquests 7 membres.
 
 264
 00:42:59,360 --> 00:43:10,640
- És a dir que ara l'Assemblea Federal, les dues càmeres, et decideixen qui forma les 7 membres i qui d'aquest 7 membres és el president, què passa?
+ És a dir que cada any l'Assemblea Federal, les dues càmeres, decideixen qui forma els 7 membres i qui d'aquest 7 membres és el president, què passa?
 
 265
 00:43:10,640 --> 00:43:25,200
- Que després de bastants anys del sistema polític suïss, els partits majoritaris han arribat a un tipus de consens i es posen d'acord de manera extraoficial i entre ells pacten, diuen.
+ Que després de bastants anys del sistema polític suís, els partits majoritaris han arribat a un tipus de consens i es posen d'acord de manera extraoficial i entre ells pacten, diuen.
 
 266
 00:43:25,200 --> 00:43:40,800
- Jo poso dos, tu poses altres dos, i que després hi ha un 3 dels 3 partits majoritaris, per exemple, aquest any votem pel meu, a l'any següent votem pel teu i a l'altre partit i al tercer any votem per un president a l'altre partit.
+ Jo poso dos, tu poses altres dos, i que després hi ha un 3r dels 3 partits majoritaris, per exemple, aquest any votem pel meu, a l'any següent votem pel teu i a l'altre partit i al tercer any votem per un president a l'altre partit.
 
 267
 00:43:40,800 --> 00:43:54,880
- I entre els 3 partits es van votant la presidència un any, dret a any. Per tant, els suïssos tampoc poden escollir el seu president, de fet, el govern depèn de l'Assemblea Federal.
+ I entre els 3 partits es van rotant la presidència un any, dret a any. Per tant, els suïssos tampoc poden escollir el seu president, de fet, el govern depèn de l'Assemblea Federal.
 
 268
 00:43:54,880 --> 00:44:12,480
