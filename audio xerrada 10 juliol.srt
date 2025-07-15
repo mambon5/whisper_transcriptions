@@ -1,34 +1,34 @@
 1
 00:00:00,000 --> 00:00:03,920
- Són cocs, potser és un doble senyor més.
+ Som pocs, però potser vindrà algú més.
 
 2
 00:00:03,920 --> 00:00:06,800
- Hem hagut la xerrada de la democràcia.
+ Benvinguts a la xerrada de la democràcia.
 
 3
 00:00:06,800 --> 00:00:13,440
- Si vivim en democràcia d'Espanya i en general a Europa, o no, i per què?
+ Si vivim en democràcia a Espanya i en general a Europa, o no, i per què?
 
 4
 00:00:13,440 --> 00:00:18,480
- Avui parlarem d'això, en principi que és la xerrada de l'Escolta i la mitjana 7.
+ Avui parlarem d'això, en principi aquesta xerrada dura de les 4.30 a les 7.
 
 5
 00:00:18,480 --> 00:00:22,400
- Vindrà diferent gent a parlar, no és moment d'incarribar al nostre estat.
+ Vindrà diferent gent a parlar, alguns arribaran més tard.
 
 6
 00:00:22,400 --> 00:00:25,200
- Bé, doncs què passa? Nosaltres ja comencem.
+ Bé, no sé què passa? Nosaltres ja comencem.
 
 7
 00:00:25,200 --> 00:00:29,760
- Anem a parlar d'avui. Hi haurà 3 parts a la xerrada d'avui.
+ De què parlarem avui? Hi haurà 3 parts a la xerrada d'avui.
 
 8
 00:00:29,760 --> 00:00:34,640
- La primera, cada programes 45 minuts, la primera serà què és la democràcia.
+ La primera, que durarà ins 45 minuts, la primera serà què és la democràcia.
 
 9
 00:00:34,640 --> 00:00:38,800
@@ -36,7 +36,7 @@
 
 10
 00:00:38,800 --> 00:00:43,120
- Nosaltres no ho farem així, el farem una definició molt gaire de la democràcia,
+ Nosaltres no ho farem així, el faremagafarem una definició molt clara de la democràcia,
 
 11
 00:00:43,120 --> 00:00:45,520
@@ -44,20 +44,19 @@
 
 12
 00:00:45,520 --> 00:00:51,600
- La segona part, parlarem dels països d'ocident, alguns països d'ocident,
+ La segona part, parlarem dels països d'occident, alguns països d'occident,
 
 13
 00:00:51,600 --> 00:00:55,680
- tots quins tipus del sistema polític tenen, com es té a ser el seu president,
+ tots quins tipus del sistema polític tenen, com es tria el seu president,
 
 14
 00:00:55,680 --> 00:00:58,960
- com es tenen les lliçons de vos, com es tenen jutges,
+ com es trien els legisladors, com es trien els jutges,
 
 15
 00:00:58,960 --> 00:01:04,080
- serveixen a aquest principi d'agressa formal, que ho afegiríem ara mateix.
-
+ segueixen a aquest principi de democràcia formal?
 16
 00:01:04,080 --> 00:01:06,960
  Acabarem parlant d'Espanya i de Catalunya.
@@ -68,15 +67,15 @@
 
 18
 00:01:12,880 --> 00:01:18,320
- serà que no tenim la meva gràcia, el tercer bloc parlarem de què podem ser per canviar.
+ serà que no tenim una democràcia, el tercer bloc parlarem de què podem ser per canviar-ho.
 
 19
 00:01:18,320 --> 00:01:23,200
- Aquest és un punt que vindrà a diferents associacions que estan entrant actualment a aquest país
+ Aquest és un punt on vindran diferents associacions que estan entrant actualment a aquest país
 
 20
 00:01:23,200 --> 00:01:26,160
- per fer del nostre sistema un sistema tan pràfic.
+ per fer del nostre sistema un sistema més democràtic.
 
 21
 00:01:26,160 --> 00:01:32,640
@@ -84,19 +83,19 @@
 
 22
 00:01:32,640 --> 00:01:38,880
- però bueno, si també hi ha un poc, si també hi ha dubtes d'així mediats i tal, però a la mà i per això què és,
+ però bueno, com que sóm pocs, si teniu dubtes d'així inmediats i tal, podeu aixecar la mà i per això què és, i tal
 
 23
 00:01:38,880 --> 00:01:43,440
- mentre no siguin dubtes que ens facin gastar molt temps, ni un programa.
+ mentre no siguin dubtes que ens facin gastar molt temps, no hi ha problema.
 
 24
 00:01:43,440 --> 00:01:52,960
- Així que doncs, sense més, donem pas al senyor Jordi, s'ha de dir, perquè ens expliqui el millor que ell és.
+ Així que doncs, sense més, donem pas al senyor Jordi, s'ha de dir, perquè ens expliqui què és la democràcia.
 
 25
 00:01:52,960 --> 00:02:05,440
- Jo l'explico una mica, què és la gràcia segon l'Antonio L'Hasta Travijà.
+ Jo explicaré una mica, què és la democràcia segons l'Antonio García Travijà.
 
 26
 00:02:05,440 --> 00:02:09,040
@@ -104,47 +103,47 @@
 
 27
 00:02:09,040 --> 00:02:17,520
- Aquests senyors, primer farem una introducció, aquí va ser l'Antonio L'Hasta Travijà, el que el coneixeu.
+ Aquest senyor, primer farem una introducció, de qui va ser l'Antonio Garcia Travijano, pels que no el coneixeu.
 
 28
 00:02:17,520 --> 00:02:24,160
- I després, breu-vein i tot el més resumit i ben explicat que he pogut explicar que és el sistema que hi proposa.
+ I després, doncs breument i tot el més resumit i ben explicat quin és el sistema que ell proposa.
 
 29
 00:02:24,160 --> 00:02:30,640
- Bàsicament l'Antonio L'Hasta Travijà va ser un advocat, un jurista espanyol, definat al segle XX,
+ Bàsicament l'Antonio G Travijano va ser un advocat, un jurista espanyol, de finals del segle XX,
 
 30
 00:02:30,640 --> 00:02:34,640
- que validarà tot el que és la posició al sistema franquista.
+ que liderar tot el que és la oposició al sistema franquista.
 
 31
 00:02:34,640 --> 00:02:39,360
- Va aglutinar tots els partits que hi havia a l'exili, i a la posició al president franquista.
+ Va aglutinar tots els partits que hi havia a l'exili, i a la oposició al règim franquista.
 
 32
 00:02:39,360 --> 00:02:44,160
- De moment, com pot ser el partit comunista o el partit demòcrata cristia,
+ Del moment, com pot ser el partit comunista o el partit demòcrata cristià,
 
 33
 00:02:44,160 --> 00:02:47,920
- els partits regionalistes, que suposament també a la dictadura,
+ els partits regionalistes, que s'oposaven també a la dictadura,
 
 34
 00:02:47,920 --> 00:02:51,760
- i els va acollir tots en un sol bloc anomenat la Junta Democràtica,
+ i els va recollir tots en un sol bloc anomenat la Junta Democràtica,
 
 35
 00:02:51,760 --> 00:02:57,520
- que és una institució que va fundar ell, amb aquest esperit de lluitar contra el president franquista,
+ que és una associació que va fundar ell, amb aquest esperit de lluitar contra el règim franquista,
 
 36
 00:02:57,520 --> 00:03:01,360
- a favor de que els ciutadans espanyols, a l'amor de Franco,
+ a favor de que els ciutadans espanyols, a la mort de Franco,
 
 37
 00:03:01,360 --> 00:03:05,200
- poguessin escollir si volien el públic o una arquíèxia,
+ poguessin escollir si volien el república o monarquia,
 
 38
 00:03:05,200 --> 00:03:08,800
@@ -156,7 +155,7 @@
 
 40
 00:03:16,640 --> 00:03:22,080
- en comptes de seguir amb aquesta estratègia que es va anomenar la dictadura democràtica,
+ en comptes de seguir amb aquesta estratègia que es va anomenar la ruptura democràtica,
 
 41
 00:03:22,080 --> 00:03:27,520
@@ -164,15 +163,15 @@
 
 42
 00:03:27,520 --> 00:03:31,200
- I aquest va ser una mica la trajectòria d'aquest senyor,
+ I aquesta va ser una mica la trajectòria d'aquest senyor,
 
 43
 00:03:31,200 --> 00:03:37,280
- i per explicar el que explicaré de continuació, m'agrada aquest llibre que es diu "Teoria pura de la República Constitución",
+ i per explicar el que explicaré de continuació, m'he basat aquest llibre que es diu "Teoria pura de la República Constitucional",
 
 44
 00:03:37,280 --> 00:03:41,360
- que és un llibre de la Nòima Cadena, que va ser la deposició de Mercè.
+ que és un llibre una mica dens, ...
 
 45
 00:03:41,360 --> 00:03:45,360
@@ -180,7 +179,7 @@
 
 46
 00:03:45,360 --> 00:03:52,400
- Aquest senyor, el Trevi Hano, va estar en contacte amb el rei que va venir a Hollands de Juan Carlos,
+ Aquest senyor, el Trevijano, va estar en contacte amb el rei que va venir abans d'en Juan Carlos,
 
 47
 00:03:52,400 --> 00:03:58,000
@@ -188,35 +187,35 @@
 
 48
 00:03:58,000 --> 00:04:02,880
- però al veure que la monarquia es va posicionar a la banda del franquista amb Juan Carlos,
+ però al veure que la monarquia es va posicionar al bàndol franquista amb Juan Carlos,
 
 49
 00:04:02,880 --> 00:04:06,800
- va passar a ser únic i exclusivament republicà.
+ doncs va passar a ser única i exclusivament republicà.
 
 50
 00:04:06,800 --> 00:04:13,120
- -Però si una sintonia és molt lliure. -Aleshores, quines són les bases de la democràcia?
+ Aleshores, quines són les bases de la democràcia?
 
 51
 00:04:13,120 --> 00:04:18,720
- El que volem establir és un sistema de govern que he pensat per i per els ciutadans,
+ El que volem establir és un sistema de govern pensat per i per els ciutadans,
 
 52
 00:04:18,720 --> 00:04:25,760
- que siguin els ciutadans que tenen control, mecanismes per controlar i inhibir el poder polític i els polítics.
+ que siguin els ciutadans que tinguin control, mecanismes per controlar i inhibir el poder polític i els polítics.
 
 53
 00:04:25,760 --> 00:04:32,320
- Basad en tres quiles fonamentals, que són la representació dels ciutadans i les institucions polítiques,
+ Basat en tres pilars fonamentals, que són la representació dels ciutadans a les institucions polítiques,
 
 54
 00:04:32,320 --> 00:04:41,440
- la separació de poders entre el poder legislatiu i executiu i un sistema judicial independent.
+ la separació de poders entre el poder legislatiu i l'executiu i un sistema judicial independent.
 
 55
 00:04:41,440 --> 00:04:50,320
- Un sistema polític en què els ciutadans són els lleis central en què tota la política
+ Un sistema polític en què els ciutadans són l'eix central en quant tota la política
 
 56
 00:04:50,320 --> 00:04:54,560
@@ -228,11 +227,11 @@
 
 58
 00:04:58,240 --> 00:05:02,400
- i la llibertat constituïna, que són tots conceptes que són molt xulos i molt guais,
+ i la llibertat constituent, que són dos conceptes que són molt xulos i molt guais,
 
 59
 00:05:02,400 --> 00:05:06,000
- que si d'una cosa us heu d'acabar, m'agradaria que fos aquests conceptes.
+ que si  una cosa us heu d'acabar, m'agradaria que fossin aquests conceptes.
 
 60
 00:05:06,000 --> 00:05:10,720
@@ -244,11 +243,11 @@
 
 62
 00:05:17,040 --> 00:05:22,160
- de decidir els ciutadans, de decidir com volem organitzar-se políticament els mateixos.
+ de decidir els ciutadans, de decidir com volem organitzar-se políticament ells mateixos.
 
 63
 00:05:22,160 --> 00:05:26,880
- És a dir, un sistema polític basat en la llibertat política i col·lectiva
+ És a dir, un sistema polític basat en la llibertat política col·lectiva
 
 64
 00:05:26,880 --> 00:05:33,360
@@ -256,47 +255,47 @@
 
 65
 00:05:33,360 --> 00:05:39,360
- sinó que han de ser els propis ciutadans que han de dir "nosaltres volem això i d'aquesta manera, i fer-se política".
+ sinó que han de ser els propis ciutadans que han de dir "nosaltres volem això i d'aquesta manera, i fer-se realitat".
 
 66
 00:05:39,360 --> 00:05:44,320
- I això és la llibertat constituït, que és la llibertat exclusiva de la nació, és a dir,
+ I això és la llibertat constituent, que és la llibertat exclusiva de la nació, és a dir,
 
 67
 00:05:44,320 --> 00:05:50,960
- de ciutadans, de constituir la forma de govern, una democràcia, una dictadura o una olivocràcia,
+ dels ciutadans, de constituir la forma de govern, una democràcia, una dictadura o una oligocràcia,
 
 68
 00:05:50,960 --> 00:05:54,960
- i la forma d'estat, una arqueòre pública que vulguin.
+ i la forma d'estat, monarquia o república que vulguin.
 
 69
 00:05:54,960 --> 00:05:59,600
- I, portant-me, la democràcia no és una qüestió ideològica,
+ Important, la democràcia no és una qüestió ideològica,
 
 70
 00:05:59,600 --> 00:06:04,960
- és una qüestió de relació de poder entre governants i governants.
+ és una qüestió de relació de poder entre governants i governats.
 
 71
 00:06:04,960 --> 00:06:12,560
- La relació del poder, concretament, es basa en què siguin els governants que controlin els que governen, i no els presos.
+ La relació del poder, concretament, es basa en què siguin els governats els que controlin els que governen, i no al revés.
 
 72
 00:06:12,560 --> 00:06:18,240
- Hem dit 3 podres, no? Poder legislatiu, poder executiu,
+ Hem dit 3 poders, no? Poder legislatiu, poder executiu,
 
 73
 00:06:18,240 --> 00:06:24,000
- hi ha una separació clara del poder i un independent judicial comencem pel poder legislatiu, bàsicament.
+ hi ha d'haver separació clara entre poders i un independent judicial comencem pel poder legislatiu, bàsicament.
 
 74
 00:06:24,000 --> 00:06:30,560
- Representació, què és la representació? Això es parla molt de aquells partits polítics que ens han de representar.
+ Representació, què és la representació? Es parla molt de que els partits polítics que ens han de representar.
 
 75
 00:06:30,560 --> 00:06:36,960
- La representació no és més que això és una esquema de l'assemblament nacional, com pot ser els conglis dels diputats.
+ La representació no és més que: això és una esquema d'una' assemblea nacional, com pot ser els congrés dels diputats.
 
 76
 00:06:36,960 --> 00:06:43,040
@@ -304,23 +303,23 @@
 
 77
 00:06:43,040 --> 00:06:49,760
- treballen en funció dels interessos dels ciutadans que els ha escullit.
+ treballin en funció dels interessos dels ciutadans que els ha escollit.
 
 78
 00:06:49,760 --> 00:06:54,880
- Per tant, com podem fer un sistema polític en aquella llei de representació?
+ Per tant, com podem fer un sistema polític en que hi hagi representació?
 
 79
 00:06:54,880 --> 00:07:03,840
- Dividir els ciutadans en grups i que cada grup de ciutadans pogués escullir
+ Doncs dividint els ciutadans en grups i que cada grup de ciutadans pogués escollir
 
 80
 00:07:03,840 --> 00:07:10,800
- no un partit, com ara faig una obra d'explicació com funcionar es fan adentrar-me una mica el que vindrà després,
+ no un partit, com ara faig una breu d'explicació com funciona en Espanya adelantant-me una mica el que vindrà després,
 
 81
 00:07:10,800 --> 00:07:19,680
- però aquí podríem dir que aquests són els diputats del PSOE, aquests els diputats del PP, aquests de Vox i aquests de Sommar, funcionaria així.
+ però aquí podríem dir que aquests són els diputats del PSOE, aquests els diputats del PP, aquests de Vox i aquests de Sumar, funcionaria així.
 
 82
 00:07:19,680 --> 00:07:22,800
@@ -328,19 +327,19 @@
 
 83
 00:07:22,800 --> 00:07:33,360
- Aquí hi hauria un diputat escullit per els ciutadans de Barcelona, aquí hi hauria un diputat escullit només per els ciutadans de Tarragona,
+ Aquí hi hauria un diputat escollit per els ciutadans de Barcelona, aquí hi hauria un diputat escollit només per els ciutadans de Tarragona,
 
 84
 00:07:33,360 --> 00:07:40,400
- aquí hi hauria un diputat escullit només per els ciutadans de l'EU, i així hi ha tots els diputats.
+ aquí hi hauria un diputat escollit només per els ciutadans de León, i així amb tots els diputats.
 
 85
 00:07:40,400 --> 00:07:44,880
- És a dir, els diputats no s'entenien així aquí en funció del partit del que pertanyen,
+ És a dir, els diputats no es sentarien aquí en funció del partit del que pertanyen,
 
 86
 00:07:44,880 --> 00:07:48,480
- sinó en funció de la població a què hem presentat.
+ sinó en funció de la població a la què representen.
 
 87
 00:07:48,480 --> 00:07:55,040
@@ -348,19 +347,19 @@
 
 88
 00:07:55,040 --> 00:08:00,240
- És a dir, hi havia d'Espanya un districte de 70.000, 100.000 habitats,
+ És a dir, dividir Espanya en districtes de 70.000, 100.000 habitats,
 
 89
 00:08:00,240 --> 00:08:07,120
- i que cada districte podés escullir a un diputat o diputada, només a un, i no només escullir,
+ i que cada districte pogués escollir a un diputat o diputada, només a un, i no només escollir,
 
 90
 00:08:07,120 --> 00:08:14,000
- sinó que ho posa aquí, representació de cada districte per un sol diputat amb mandat imperatiu,
+ sinó que com posa aquí, representació de cada districte per un sol diputat amb mandat imperatiu,
 
 91
 00:08:14,000 --> 00:08:17,520
- és a dir, que el diputat ha d'obar-hi les ordres que donen el seu districte,
+ és a dir, que el diputat ha d'obar-hi les ordres que li dona el seu districte,
 
 92
 00:08:17,520 --> 00:08:22,960
@@ -368,51 +367,51 @@
 
 93
 00:08:22,960 --> 00:08:31,440
- I, clar, perquè tot això sigui evitatiu, els districtes haurien de tenir la mateixa quantitat de persones.
+ I, clar, perquè tot això sigui equitatiu, els districtes haurien de tenir la mateixa quantitat de persones.
 
 94
 00:08:31,440 --> 00:08:34,960
- Aleshores, tot això seria una relació tractual.
+ Aleshores, tot això seria una relació contractual.
 
 95
 00:08:34,960 --> 00:08:40,640
- Els ciutadans es coneixen, i el diputat signa un contacte a obar-hi les ordres als ciutadans,
+ Els ciutadans es escullen, i el diputat signa un contacte ha d'obeir les ordres als ciutadans,
 
 96
 00:08:40,640 --> 00:08:44,720
- i, si no, els ciutadans els poden fer fora.
+ i, si no, els ciutadans el poden fer fora.
 
 97
 00:08:44,720 --> 00:08:49,440
- Per tant, qui pot ser diputat? Dof, qualsevol. No, els partits no tindrien.
+ Per tant, qui pot ser diputat? Doncs, qualsevol. No, els partits no tindrien.
 
 98
 00:08:49,440 --> 00:08:52,480
- Ara només pot ser diputat si pertanyes a un partit estatal.
+ Ara només pots ser diputat si pertanyes a un partit estatal.
 
 99
 00:08:52,480 --> 00:09:02,160
- En aquest sistema pot ser diputat qualsevol persona que tingui un recol de la ciutadania.
+ En aquest sistema pot ser diputat qualsevol persona que tingui un recolzament de la ciutadania.
 
 100
 00:09:02,160 --> 00:09:07,120
- Com es pot donar conèixer aquest diputat? Perquè, clar, aquí hi ha un problema, si tothom pot ser diputat,
+ Com es pot donar a conèixer aquest diputat? Perquè, clar, aquí hi ha un problema, si tothom pot ser diputat,
 
 101
 00:09:07,120 --> 00:09:13,680
- potser guanyarien només els diputats menys rics o amb més possibilitats de donar-se conèixer.
+ potser guanyarien només els diputats més rics o amb més possibilitats de donar-se conèixer.
 
 102
 00:09:13,680 --> 00:09:16,720
- L'altre dia ens soluciona una mena molt fàcil.
+ Però el Trevijano ho soluciona d'una manera molt fàcil.
 
 103
 00:09:16,720 --> 00:09:24,080
- Tots els mitjans de comunicació, molt bienso superior, de 1.000 persones hauran de donar els diputats
+ Tots els mitjans de comunicació, amb audiència superior a 10.000 persones al districte hauran de donar espais
 
 104
 00:09:24,080 --> 00:09:32,240
- perquè tots es puguin anunciar de la mateixa manera, i lo mateixen els ajuntaments i la campanya.
+ iguals i gratuits als diputats perquè tots es puguin anunciar de la mateixa manera, i lo mateixen els ajuntaments i amb la campanya.
 
 105
 00:09:32,240 --> 00:09:41,680
@@ -420,11 +419,11 @@
 
 106
 00:09:41,680 --> 00:09:51,200
- La lecció al diputat seria a través de la majoria absoluta i, si vols necessari, a doble vot.
+ L'el·lecció del diputat hauria de ser a través de la majoria absoluta i, si fos necessari, a doble volta.
 
 107
 00:09:51,200 --> 00:10:01,280
- Altres característiques del diputat són que cada diputat és suplent. El diputat hauria d'acompanyar el seu suplent, que seria com el seu ajudant,
+ Altres característiques del diputat són que cada diputat té suplent. El diputat aniria acompanyat del seu suplent, que seria com el seu ajudant,
 
 108
 00:10:01,280 --> 00:10:08,720
@@ -436,43 +435,43 @@
 
 110
 00:10:20,480 --> 00:10:23,840
- li entra en una informatat qual que sigui, podés ser substituït.
+ li entra en una enfermetat o el que sigui, poder ser substituït.
 
 111
 00:10:23,840 --> 00:10:34,000
- El sou de cada diputat i suplent es padria integrament per al districte. Això faria també que el diputat només d'anguès del districte
+ El sou de cada diputat i suplent es pagaria íntegrament pel districte. Això faria també que el diputat depengués només del districte
 
 112
 00:10:34,000 --> 00:10:43,040
- afintaria la relació amb el districte, perquè no obriria d'una entitat altra, que no fos del districte,
+ arrelaria la relació amb el districte, perquè no cobriria d'una entitat altra, que no fos del districte,
 
 113
 00:10:43,040 --> 00:10:48,560
- i el diputat, això que ha dit l'oficina, tindria el seu suplent, ja podria arreglar els seus ciutadans,
+ i el diputat, això que dic de l'oficina, tindria el seu suplent, allà podria rebre els seus ciutadans,
 
 114
 00:10:48,560 --> 00:10:54,880
- i tots els diputats escollits al cosit abans formen l'Assemblea Nacional.
+ i tots els diputats escollits formen l'Assemblea Nacional.
 
 115
 00:10:54,880 --> 00:11:04,880
- L'Assemblea Nacional ha de poder promulgar els lleis que es votin per si sol per favorir la separació de poders.
+ L'Assemblea Nacional ha de poder promulgar les lleis que es votin per si sola per afavorir la separació de poders.
 
 116
 00:11:04,880 --> 00:11:22,560
- Característiques a l'Assemblea Nacional, això el que he comentat abans, no ho veus, els diputats han de poder votar i aprovar les lleis per si sols,
+ Característiques de l'Assemblea Nacional, doncs això el que he comentat abans, res nou, els diputats han de poder votar i aprovar les lleis per si sols,
 
 117
 00:11:22,560 --> 00:11:32,960
- sense inferència del govern ni de cap a gent externa, i els projectes de lleis, ara només pots presentar un projecte de llei,
+ sense interferència del govern ni de cap agent extern, i els projectes de lleis, ara només pots presentar un projecte de llei,
 
 118
 00:11:32,960 --> 00:11:45,440
- si ets un partit, o encara que no siguis un partit, et recollim firmes, pots, però el Congrés pot no aprovar aquesta petició.
+ si ets un partit, o encara que no siguis un partit, i recollint firmes, pots, però el Congrés pot no aprovar aquesta petició.
 
 119
 00:11:45,440 --> 00:11:58,320
- Per tant, amb aquest mecanisme, també, o els projectes de llei, els podria presentar un o més diputats, el govern, o un conjunt de ciutadans.
+ Per tant, amb aquest mecanisme, també, qualsevol projecte de llei, els podria presentar un o més diputats, el govern, o un conjunt de ciutadans.
 
 120
 00:11:58,320 --> 00:12:05,840
@@ -480,23 +479,23 @@
 
 121
 00:12:05,840 --> 00:12:12,800
- De manera independent hauria de fer un poder executiu, és a dir, un president i un govern, aquest president s'ha d'escollir de manera directa,
+ De manera independent hauria d'haver-hi un poder executiu, és a dir, un president i un govern, aquest president s'ha d'escollir de manera directa,
 
 122
 00:12:12,800 --> 00:12:17,520
- no com ara que s'escollin a través de consells per partits i tactes, a través dels partits polítics,
+ no com ara que s'escull a través de consells per partits i pactes, a través dels partits polítics,
 
 123
 00:12:17,520 --> 00:12:27,120
- sinó que hauríem de ser els ciutadans, nosaltres, que hauríem de poder escollir de manera directa el nostre president,
+ sinó que hauríem de ser els ciutadans, nosaltres, qui hauríem de poder escollir de manera directa el nostre president,
 
 124
 00:12:27,120 --> 00:12:35,600
- independentment d'aquí un partit polític, per tant, o quina sigui la seva ideologia.
+ independentment de a quin partit polític pertanyi, o quina sigui la seva ideologia.
 
 125
 00:12:35,600 --> 00:12:48,080
- Per tant, els senyors d'actors per escollir el president serien el mateix que per escollir el diputat, però serien unes votacions, eleccions independentes i separades,
+ Per tant, el cens d'electors per escollir el president seria el mateix que per escollir el diputat, però serien unes votacions, eleccions independentes i separades,
 
 126
 00:12:48,080 --> 00:12:50,240
@@ -504,11 +503,11 @@
 
 127
 00:12:50,240 --> 00:12:59,280
- Qui podria ser candidat? Doncs qualsevol persona podria ser candidat sempre quan obtingués un número determinat dels firmes, que no la votants.
+ Qui podria ser candidat? Doncs qualsevol persona podria ser candidat sempre i quan obtingués un número determinat dels firmes, que no la votants.
 
 128
 00:12:59,280 --> 00:13:08,400
- Jo, per exemple, si vull, no estic d'acord amb la idea d'algú per ser president, però estic d'acord amb qui es pugui presentar, jo podria votar.
+ Jo, per exemple, si avui, no estic d'acord amb la idea d'algú per ser president, però estic d'acord amb que es pugui presentar, jo podria firmar.
 
 129
 00:13:08,400 --> 00:13:16,080
@@ -516,147 +515,147 @@
 
 130
 00:13:16,080 --> 00:13:28,480
- Aquestes són les característiques que, per anar una mica més ràpid per escollir de temps, doncs no en treguem a parlar de totes, però bàsicament estableix que qualsevol ciutadà, amb un suport també ciutadà,
+ Aquestes són les característiques que, per anar una mica més ràpid per no perdre de temps, doncs no entrem a parlar de totes, però bàsicament estableix que qualsevol ciutadà, amb un suport també ciutadà,
 
 131
 00:13:28,480 --> 00:13:43,360
- pugui arribar a ser president en igualtat de condicions sense i que l'Estat sigui com una eina per a aquest candidat pugui arribar a tothom sense haver d'aprendre de la seva ricaesa personal o del partit del que hem de tenir.
+ pugui arribar a ser president en igualtat de condicions sense i que l'Estat sigui com una eina per que aquest candidat pugui arribar a tothom sense haver de dependre de la seva riquesa personal o del partit al que pertanyi.
 
 132
 00:13:43,360 --> 00:13:52,160
- Per tant, qualsevol partit, per minoritar-hi que sigui o qualsevol candidatura independent, tindria les mateixes possibilitats a ser elegit.
+ Per tant, qualsevol partit, per minoritari que sigui o qualsevol candidatura independent, tindria les mateixes possibilitats a ser elegit.
 
 133
 00:13:52,160 --> 00:14:12,480
- Sistema de doble volta, per assegurar-nos la majoria absoluta, campanyes gratuïques, és a dir, no financiades per capacitat privada, perquè després de l'hora d'estar al govern no hi hagi res de favors, tragos, ni res com pot haver ara.
+ Sistema de doble volta, per assegurar-nos la majoria absoluta, campanyes electorals gratuïtes, és a dir, no financiades per cap entitat privada, perquè després de l'hora d'estar al govern no hi hagi res de favors, tractes, ni res com pot haver-hi ara.
 
 134
 00:14:12,480 --> 00:14:24,080
- I, bueno, i bàsicament, el president després escollit seria lliure d'escollir els seus ministres, i per acabar, els sistemes socials hauria de ser independent també.
+ I, bueno, i bàsicament, el president després seria lliure d'escollir els seus ministres, i per acabar, els sistema judicial hauria de ser independent també.
 
 135
 00:14:24,080 --> 00:14:39,520
- No pot ser que els polítics siguin de la càmera legislativa, o sigui, del govern es coneixin els jutges que després podrien jutjar-los ara, això és una absoluta agarració que tenim avui dia, però quins som els requisits d'aquesta independència justícia?
+ No pot ser que els polítics siguin de la càmera legislativa, o sigui, del govern escullin els jutges que després podrien jutjar-los, això és una absoluta aberració que tenim avui dia, però quins son els requisits d'aquesta independència justícia?
 
 136
 00:14:39,520 --> 00:14:49,040
- Molt greu, un, que tribunals a primera instància fuquen de rebuca o al segon llei per si mateixos, sempre i quan un ciutadà ho demani.
+ Molt breument, un, que els tribunals de primera instància puguin revocar qualsevol llei per si mateixos, sempre i quant un ciutadà ho demani.
 
 137
 00:14:49,040 --> 00:15:09,440
- És a dir, jo com a ciutadà independent, si veig que s'ha provat una llei que va contra els meus drets fonamentals, puc anar un jutge a la primera instància i dir, oi, aquesta llei va en contra els meus drets, i si el procés joícia decideix que és així, que aquesta llei quedi anulada, de manera directa, sense haver de recordar-ho o a la cara.
+ És a dir, jo com a ciutadà independent, si veig que s'ha provat una llei que va contra els meus drets fonamentals, puc anar un jutge a la primera instància i dir, escolti, aquesta llei va en contra els meus drets, i si el procés judicial decideix que és així, que aquesta llei quedi anulada, de manera directa, sense haver de recorre-ho a la càmara
 
 138
 00:15:09,440 --> 00:15:14,680
- La càmera legislativa o el mateix govern, que sigui un procés culminant.
+ legislativa o el mateix govern, que sigui un procés fulminant.
 
 139
 00:15:14,680 --> 00:15:39,360
- Després, autonomia de la judicatura, de l'organització de la jurisprudència, és a dir, que el sistema judicial pugui organitzar-se per si mateix, i que tingui, com poso també després, uns prensopostos propis i una possibilitat organitzadora pròpia, per exemple, qui hauria d'escollir, això ho explico després, i tots els ciutadans haurien de ser iguals davant la llei,
+ Després, autonomia de la judicatura, de l'organització de la jurisprudència, és a dir, que el sistema judicial pugui organitzar-se per si mateix, i que tingui, com poso també després, uns pressupostos propis i una capacitat organitzadora pròpia, per exemple, qui hauria d'escollir, això ho explico després, i tots els ciutadans haurien de ser iguals davant la llei,
 
 140
 00:15:39,360 --> 00:16:05,000
- és a dir, que no hi hauria d'haver, per molt que fos president o membre del govern o diputat, es podrien obrir processos per anar als contra ells, i després del procés judicial ha de tenir la capacitat de decidir sobre la constitucionalitat de les drets, el que deia abans, si veu que una llei és inconstitucional, hauríem de poder treure-la a demorar-la de manera immediata.
+ és a dir, que no hi hauria d'haver, per molt que fos president o membre del govern o diputat, es podrien obrir processos per anar als contra ells, i després el poder judicial ha de tenir la capacitat de decidir sobre la constitucionalitat de les lleis, el que deia abans, si veuen que una llei és inconstitucional, hauríen de poder treure-la a anular-la de manera immediata.
 
 141
 00:16:05,000 --> 00:16:26,240
- I després, per asseure'ns, a aquesta independència, us he dit que també seria que la llei hauria de prohibir que tornessin a ser jutges persones que ha tingut càrrecs en el govern, en els anteriors, cinc anys, és a dir, en el govern anterior, i mai podria tornar a la disposició per no evitar que és intercanvis de favor entre polítics i justícia.
+ I després, per assegurar-nos aquesta independència, un 6è punt també seria que la llei hauria de prohibir que tornessin a ser jutges persones que han tingut càrrecs en el govern, en els anteriors cinc anys, és a dir, en el govern anterior, i mai podrien tornar a la mateixa posició per evitar els intercanvis de favors entre polítics i justícia.
 
 142
 00:16:26,240 --> 00:16:37,880
- I el president i els membres del Conseil de Justícia, seríem escollits per tot això que deia abans, per tots els professionals del món jurídic, en comptes dels polítics per garantir aquesta independència.
+ I el president i els membres del Conseil de Justícia, seríen escollits per tot això que deia abans, per tots els professionals del món jurídic, en comptes dels polítics per garantir aquesta independència.
 
 143
 00:16:37,880 --> 00:16:54,640
- I per acabar, consell de Justícia, com s'organitzaria la justícia, a través d'un consell de Justícia, en comptes d'un ministre, d'un ministeri de Justícia que trenc amb la dependència judicial, seria a través del consell de Justícia on hi hauria un president del consell,
+ I per acabar, consell de Justícia, com s'organitzaria la justícia, a través d'un consell de Justícia. En comptes d'un ministre, d'un ministeri de Justícia que trenca amb la independència judicial, seria a través del consell de Justícia on hi hauria un president del consell,
 
 144
 00:16:54,640 --> 00:17:09,280
- que escollís a 14 consellers que integrarien el consell, escollits també, el president, ho he dit, escollits, com he dit els 6 a 1, per tots els membres del món judicial, no els polítics.
+ que escollís a 14 consellers que integrarien el consell, escollits també, el president, vull dir, escollit, com he dit al 6è punt, per tots els membres del món judicial, no els polítics.
 
 145
 00:17:09,280 --> 00:17:11,360
- Quines serien les consells d'aquest consell?
+ Quines serien les funcions d'aquest consell?
 
 146
 00:17:11,360 --> 00:17:39,920
- Doncs renovar les presidències, escolars i audiències, anomenar a tots els membres del Tribunal Superior de Justícia, el Tribunal Suprem, molt important, aquest Tribunal Suprem tindria incorporada dins una sala constitucional, és a dir, que saliminaria, i això és bastant important, saliminaria el Tribunal Constitucional, perquè el Tribunal Constitucional no és més que una eina controlada per polítics per decidir a conveniència
+ Doncs renovar les presidències de sales d'audiències, anomenar a tots els membres del Tribunal Superior de Justícia, del Tribunal Suprem, molt important, aquest Tribunal Suprem tindria incorporada dins una sala constitucional, és a dir, que s'eliminaria, i això és bastant important, s'eliminaria el Tribunal Constitucional, perquè el Tribunal Constitucional no és més que una eina controlada per polítics per decidir a conveniència
 
 147
 00:17:39,920 --> 00:17:49,280
- quina si ells són constitucionals o no, per afobrir la justícia independent que el Tribunal Constitucional hauria d'estar integrat fins a aquesta estructura independent.
+ quines lleis són constitucionals o no, per afavorir la justícia independent aquest Tribunal Constitucional hauria d'estar integrat dins d'aquesta estructura independent.
 
 148
 00:17:49,280 --> 00:17:59,120
- I per últim, al·legure't els calafons i per suports dos manuals, i per últim, solicitarà revisió del pressupost del Tribunal del Constància abans d'incloure-ho a la llei de les opostos generals.
+ I per últim, elaborar els calafons o pressupostos anuals, i per últim, sol·licitar revisió del pressupost del Tribunal de Comptes abans d'incloure-ho a la llei dels pressupostos generals.
 
 149
 00:17:59,120 --> 00:18:09,840
- I per acabar, conclusions, això són dos coses que per segur llagir l'interessa, tot aquest sistema que ha explicat seria un sistema
+ I per acabar, conclusions, això són dos coses que per si a algú lleigr li interessa, tot aquest sistema que ha explicat seria un sistema
 
 150
 00:18:09,840 --> 00:18:17,680
- purament on els ciutadans, tant, tindrien el control a la classe política, i no al revés.
+ purament on els ciutadans, tindrien el control a la classe política, i no al revés.
 
 151
 00:18:17,680 --> 00:18:25,680
- A través de les operacions poderes, i sobretot, a través del que ha dit, que cala el districte electoral, pogués escogir el seu únic diputat amat de revocable,
+ A través de la separació de poders, i sobretot, a través del que ha dit, que cada el districte electoral, pogués escollir el seu únic diputat amb mandat revocable,
 
 152
 00:18:25,680 --> 00:18:37,200
- aconseguirien que els diputats, en comptes de votar als lleis, ho veïn els interessos del partit en què estan votarien els lleis i farien lleis
+ aconseguirien que els diputats, en comptes de votar als lleis, obeïnt els interessos del partit en el què estan, votarien les lleis i farien lleis
 
 153
 00:18:37,200 --> 00:18:41,760
- a tant en alli d'interès del seu districte, dels ciutadans que van votar.
+ atenent els interessos del seu districte, dels ciutadans que els van votar.
 
 154
 00:18:41,760 --> 00:18:48,720
- Dos cites que per això es poden fer reflexionar que hi ha 30 que llibren, com dèiem, són,
+ Dos cites que potser us poden fer reflexionar que he tret d'aquest llibre, com deia, són,
 
 155
 00:18:48,720 --> 00:18:59,360
- "Se necesitaran siglos de sang viento, conflicto y de ánimo civilizador para comprender que no habría necesidad de resistencia si la autoridad tuviera los mismos intereses que los sujetos autorizados".
+ "Se necesitaron siglos de sangriento conflicto y de ánimo civilizador para comprender que no habría necesidad de resistencia si la autoridad tuviera los mismos intereses que los sujetos autorizados".
 
 156
 00:18:59,360 --> 00:19:06,080
- Para conseguirlo bastaria que el poder no viniera de mitos extrecciones religiosas puertas armadas ni de la riqueza, sin exclusivamente,
+ Para conseguirlo bastaría que el poder no viniera de mitos de organizaciones religiosas de fuerzas armadas ni de la riqueza, sino exclusivamente,
 
 157
 00:19:06,080 --> 00:19:11,600
- molt important, de la autoridad o libremente por los que debíen, no voy a decirlo, y pudieran revocar.
+ molt important, del otorgado libremente por los que debieren obedecerlo y pudieran revocarlo.
 
 158
 00:19:11,600 --> 00:19:17,680
- I la última, si te llama xotango, que no sé si m'hastigues de estar en moda atenta, aunque la corrupción,
+ I la última, i amb això tanco, que no sé si m'estic gastant molt de temps, aunque la corrupción,
 
 159
 00:19:17,680 --> 00:19:21,360
- també es por la corrupción que es un teo molt, que ahora estamos en la moda matricó,
+ també es per la corrupció que es un tema molt..., que ara està molt de moda,
 
 160
 00:19:21,360 --> 00:19:31,840
- "sul d'atanguan al que sigui", diu "aunque la corrupción económica sea producto automático de la corrupción moral y enthémica del régimen del poder partidocrático",
+ surt de tant en tant, pel que sigui, diu "aunque la corrupción económica sea producto automático de la corrupción moral y endémica del régimen del poder partidocrático",
 
 161
 00:19:31,840 --> 00:19:43,040
- "dat dèiem politik etainovil", "los medios de comunicación, los tratadistas del estado de partidos y los propios partidos estatales la conceben y explican del mismo modo que la Iglesia al tecado",
+ del régim polític que tenim avui, "los medios de comunicación, los tratadistas del estado de partidos y los propios partidos estatales la conciben y explican del mismo modo que la Iglesia al pecado",
 
 162
 00:19:43,040 --> 00:19:51,360
- "o sea, como inemitar la consecuencia de la naturaleza caída del hombre de la que la ambició sincessible político parece su paradigma biciclo".
+ "o sea, como inevitable consecuencia de la naturaleza caída del hombre de la que el ambicioso político parece ser su paradigma visible".
 
 163
 00:19:51,360 --> 00:20:01,360
- Conclusió del que hauria sido d'això, un sistema, una forma de govern democràtic en què els ciutadans tinguem absolut control de la classe política.
+ Conclusió del que hauria de ser tot d'això, un sistema, una forma de govern democràtic en què els ciutadans tinguem absolut control de la classe política.
 
 164
 00:20:01,360 --> 00:20:10,400
- I aquest és l'anàfac, i ara anem a mirar els diferents regens políticos i altres, i a veure què t'assemblantso diferents són amb una democracia com la que t'heu d'explicar.
+ I aquest és la meva part, i ara anem a mirar els diferents règims polítics i altres, i a veure què tant semblants o diferents són amb una democràcia com la que acabo d'explicar.
 
 165
 00:20:10,400 --> 00:20:20,880
- -Muchísimas gracias, Jordi. Como bien ha comentado, vamos ahora a presentar unos cuantos sistemas políticos de diferentes países internacional,
+ -Muchísimas gracias, Jordi. Como bien ha comentado, vamos ahora a presentar unos cuantos sistemas políticos de diferentes países internacionales,
 
 166
 00:20:20,880 --> 00:20:31,760
@@ -664,7 +663,7 @@
 
 167
 00:20:31,760 --> 00:20:40,160
- Y finalizaremos con España. Vamos a presentar, sobre todo, como yo, empezando por Estados Unidos.
+ Y finalizaremos con España. Vamos a presentar, sobre todo, Romà y yo, empezando por Estados Unidos.
 
 168
 00:20:40,160 --> 00:20:51,360
@@ -676,7 +675,7 @@
 
 170
 00:21:01,040 --> 00:21:06,720
- y al final, por ejemplo, podemos suscribirse si nuestra persona no está ahí, podemos suscribirla aquí.
+ y al final, por ejemplo, podemos escribir si nuestra persona no está ahí, podemos escribirla aquí.
 
 171
 00:21:06,720 --> 00:21:14,640
@@ -684,11 +683,11 @@
 
 172
 00:21:14,640 --> 00:21:23,920
- También tenemos por aquí para votar al representante del distrito, tenemos aquí para el estado de Iowa, por ejemplo.
+ También tenemos por aquí pues para votar al representante del distrito, tenemos aquí para el estado de Iowa, por ejemplo.
 
 173
 00:21:23,920 --> 00:21:34,880
- Entonces, vamos a poder por poder, de Estados Unidos, a revisar qué instituciones lo forman, cómo se eligen y qué funciones tienen.
+ Entonces, vamos poder por poder, de Estados Unidos, a revisar qué instituciones lo forman, cómo se eligen y qué funciones tienen.
 
 174
 00:21:34,880 --> 00:21:52,320
