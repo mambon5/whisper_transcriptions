@@ -1,5 +1,12 @@
+
+
+# fora entorns virtuals
+*envi/
+*venv/
+*env/
+
+# fora àudios
+*.m4a
 'audio xerrada 10 juliol.MP3'
 *.MP3
-envi/
-
-*.m4a
+*.wav
